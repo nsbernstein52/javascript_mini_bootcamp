@@ -1,4 +1,5 @@
 # Part I: Functions
+// neil' comment here
 
 Before getting started, make sure that you have a JavaScript console open (like <a href="http://www.repl.it/languages/javascript" target="_blank">repl.it</a>), so you can complete these exercises.
 
