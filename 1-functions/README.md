@@ -1,5 +1,6 @@
 # Part I: Functions
-// neil' comment here
+// neil' comment here, 2019-11-2x
+// neil's second comment here 2019-11-30
 
 Before getting started, make sure that you have a JavaScript console open (like <a href="http://www.repl.it/languages/javascript" target="_blank">repl.it</a>), so you can complete these exercises.
 
