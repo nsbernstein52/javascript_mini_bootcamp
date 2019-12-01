@@ -25,6 +25,8 @@ Before getting started, make sure that you have a JavaScript console open (like 
 
 2. Write a sentence in plain English describing how `square(square(15))` is
    evaluated.
+   // nsb: 2019-11-30:
+   // 15 is squared, resulting in 225, then 225 is squared, resulting in 50625.
 
 3. Rename `square`'s `num` parameter in your above code to `monkey`, and
    rename the uses of that parameter in the body to `monkey` as well. Will the
